@@ -1,0 +1,14 @@
+C:\Users\User\source\LBC#\web\web\bin\Debug\net7.0\web.exe
+C:\Users\User\source\LBC#\web\web\bin\Debug\net7.0\web.deps.json
+C:\Users\User\source\LBC#\web\web\bin\Debug\net7.0\web.runtimeconfig.json
+C:\Users\User\source\LBC#\web\web\bin\Debug\net7.0\web.dll
+C:\Users\User\source\LBC#\web\web\bin\Debug\net7.0\web.pdb
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.AssemblyInfoInputs.cache
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.AssemblyInfo.cs
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.csproj.CoreCompileInputs.cache
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.dll
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\refint\web.dll
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.pdb
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\web.genruntimeconfig.cache
+C:\Users\User\source\LBC#\web\web\obj\Debug\net7.0\ref\web.dll
